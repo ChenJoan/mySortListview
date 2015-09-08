@@ -28,7 +28,7 @@ import com.chenchong.utils.NetworkUtils.VolleyJsonCallback;
 /**
  * 
  * 类名SortListViewAct
- *	实现的主要功能。
+ *	实现的主要功能。？
  *	创建日期2015-9-6
  *	创建人 chenchong <br/>
  *	联系QQ:695933593
