@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="data">
+        <item>上海</item>
+        <item>北京</item>
+        <item>深圳</item>
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+        <item>朱七</item>
+        <item>龚八</item>
+    </string-array>
+
+</resources>
